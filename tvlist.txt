@@ -8,7 +8,7 @@ CCTV-体育赛事,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls73a6.m3
 CCTV-6电影,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/jlu_cctv6hd.m3u8
 CCTV-7国防军事,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls73a8.m3u8
 CCTV-8电视剧,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls72a9.m3u8
-CCTV-9纪录http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls72a10.m3u8
+CCTV-9纪录,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls72a10.m3u8
 CCTV-10科教,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls72a11.m3u8
 CCTV-11戏曲,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls186a11.m3u8
 CCTV-12社会与法,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls72a12.m3u8
