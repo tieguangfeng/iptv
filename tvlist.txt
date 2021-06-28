@@ -1,4 +1,4 @@
-央视高清,#genre#
+央视,#genre#
 CCTV1综合,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls74a1.m3u8
 CCTV2财经,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls74a2.m3u8
 CCTV3综艺,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls74a3.m3u8
@@ -19,7 +19,7 @@ CCTV17农业农村,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls185a17
 CETV1,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls67a45.m3u8
 CGTN,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls185a571.m3u8
 CGTN纪录,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls67a44.m3u8
-数字高清,#genre#
+数字,#genre#
 凤凰卫视,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls254.m3u8
 凤凰资讯,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls255.m3u8
 CHC高清电影,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls260.m3u8
@@ -46,7 +46,7 @@ CCTV央视台球,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls184a574.
 CCTV风云音乐,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls184a519.m3u8
 CCTV兵器科技,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls184a573.m3u8
 CCTV女性时尚,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls184a522.m3u8
-地方高清,#genre#
+地方,#genre#
 沈阳新闻,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls185a542.m3u8
 辽宁卫视,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls185a393.m3u8
 辽宁公共,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls185a541.m3u8
@@ -58,7 +58,7 @@ BTV财经,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/btv5hd.m3u8
 BTV生活,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/btv7hd.m3u8
 BTV青年,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/btv8hd.m3u8
 BTV新闻,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/btv9hd.m3u8
-高清卫视,#genre#
+卫视,#genre#
 湖南卫视,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls71a15.m3u8
 浙江卫视,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls68a51.m3u8
 江苏卫视,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls68a52.m3u8
