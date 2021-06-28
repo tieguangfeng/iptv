@@ -17,8 +17,6 @@ CCTV14少儿,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls71a13.m3u8
 CCTV15音乐,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls186a15.m3u8
 CCTV17农业农村,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls185a17.m3u8
 CETV1,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls67a45.m3u8
-CGTN,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls185a571.m3u8
-CGTN纪录,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls67a44.m3u8
 数字,#genre#
 凤凰卫视,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls254.m3u8
 凤凰资讯,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls255.m3u8
@@ -46,6 +44,8 @@ CCTV央视台球,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls184a574.
 CCTV风云音乐,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls184a519.m3u8
 CCTV兵器科技,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls184a573.m3u8
 CCTV女性时尚,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls184a522.m3u8
+CGTN,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls185a571.m3u8
+CGTN纪录,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls67a44.m3u8
 地方,#genre#
 沈阳新闻,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls185a542.m3u8
 辽宁卫视,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls185a393.m3u8
